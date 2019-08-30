@@ -1,0 +1,1 @@
+This is an example of how to use git on Ubuntu. I'm going to go ahead and type a bit more in order to get the hang of typing without lookiing at the screen.
